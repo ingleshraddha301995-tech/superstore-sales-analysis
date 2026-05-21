@@ -32,13 +32,20 @@ https://public.tableau.com/app/profile/shraddha.ingle/viz/Book2_17793855933850/D
 
 # How to Run
 1.Download the dataset from Kaggle — Superstore Dataset
+
 2.Load into PostgreSQL using the setup instructions below
+
 3.Run any .sql file in pgAdmin Query Tool
+
 4.Open the Tableau Public dashboard for interactive exploration
 
 # Dataset
 Source: Kaggle — Superstore Dataset Final
+
 Rows: 9,994 orders
+
 Period: January 2014 – December 2017
+
 Geography: United States
+
 Fields: Order details, customer info, product categories, sales, profit, discount, shipping
