@@ -26,6 +26,8 @@ California and New York are the top two states by sales volume
 Central region struggles most with profitability despite decent sales volume
 Several states including Texas and Illinois show negative profit — discount abuse identified as the primary cause
 
+# 📋 [Key Findings & Recommendations](KEY_FINDINGS.md)
+
 # Dashboard
 📊 View Live Dashboard on Tableau Public
 https://public.tableau.com/app/profile/shraddha.ingle/viz/Book2_17793855933850/Dashboard1?publish=yes
